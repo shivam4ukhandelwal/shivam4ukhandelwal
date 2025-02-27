@@ -42,6 +42,6 @@ As a mentor and lead developer, I enjoy guiding and collaborating with a team of
 - 📝 **Portfolio:** [shivamkhandelwal.com](https://shivamkhandelwal.com/)
 - 🐦 **Twitter:** [@ShivamK](https://twitter.com/shivamk)
 - 💼 **LinkedIn:** [Shivam Khandelwal](https://linkedin.com/in/shivamkhandelwal)
-- 📧 **Email:** shivam@example.com
+- 📧 **Email:** sshivamkhandelwal@gmail.com
 
 ![Thanks for Visiting](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
