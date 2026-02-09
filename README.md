@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 
-- 👨‍💻 **7+ years** of experience in **React Native development**.
+- 👨‍💻 **9+ years** of experience in **React Native development**.
 - 🎯 **Expert in:** React Native, TypeScript, JavaScript, Android, Swift.
 - 🔧 **Tech Stack:** React Native, Redux, Zustand, React Query, Jest, Detox, Firebase, AppCenter CI/CD.
 - 🚀 **Currently working on:** An **AR-based Bike Navigation App** using `@reactvision/react-viro` & `react-native-vision-camera`.
